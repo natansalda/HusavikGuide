@@ -1,0 +1,74 @@
+
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Husavik Guide</string>
+
+    <!-- Category name for restaurants [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Food</string>
+
+    <!-- Category name for spots [CHAR LIMIT=20] -->
+    <string name="category_spots">Spots</string>
+
+    <!-- Category name for tours [CHAR LIMIT=20] -->
+    <string name="category_tours">Tours</string>
+
+    <!-- Category name for hotels [CHAR LIMIT=20] -->
+    <string name="category_hotels">Hotels</string>
+    <string name="tours1">Experience the traditional tour from Húsavík. It is a unique adventure at sea – watching the wonders of nature in the beautiful surroundings of Skjálfandi Bay, sheltered by the stunning mountains of Vík.</string>
+    <string name="toursName1">Gentle Giants</string>
+    <string name="toursName2">Husavik Adventures</string>
+    <string name="tours2">Get your warm clothes and get ready down at Husavik harbour. We offer  a 2-hour whale watching tour on a speedy RIB boat from the harbour of Husavik – The Whale Capital of Iceland.</string>
+    <string name="toursName3">North Sailing</string>
+    <string name="tours3">Enjoy the smooth, safe sailing on a traditional Icelandic oak ship and treat your self to a cup of hot cocoa and cinnamon bun. The Húsavík Original Whale Watching and Puffins is an ideal choice for families. It is an authentic wildlife adventure by the pioneers of whale watching in Iceland.</string>
+    <string name="toursName4">Salka</string>
+    <string name="tours4"><![CDATA[Salka Whale Watching offers unforgettable whale- and whale & puffin tours across the mesmerising bay of Skjálfandi, full of whales, dolphins, puffins and local wildlife.]]></string>
+    <string name="hotelsName1">Gamli Skólinn Húsavík</string>
+    <string name="hotels1">Gamli Skólinn Húsavík offers accommodation in Húsavík. Free WiFi is offered throughout the property. The accommodation has a seating area. There is also a kitchen, fitted with a dishwasher and oven.</string>
+    <string name="hotelsName2">Fosshotel Husavik</string>
+    <string name="hotels2">Fosshotel Húsavík is a well-equipped hotel in the heart of Húsavík, just walking distance from the harbor. Fosshotel Húsavík is a whale-themed hotel. After opening its new annex in 2016, Fosshotel Húsavík is now the largest conference hotel in North Iceland, with 110 rooms and 8 conference and meeting rooms.</string>
+    <string name="hotelsName3">Árból Guesthouse</string>
+    <string name="hotels3">Located in a historic house in central Húsavík, Árból Guesthouse offers free parking and basic guest rooms with free WiFi access.</string>
+    <string name="hotelsName4">Hofdi Guesthouse</string>
+    <string name="hotels4">Hofti guesthouse has everything you need for a pleasant stay and the location is great, within walking distance of most all service and locations including swimming pool, grocery store, restaurants, museums, town center and more.</string>
+    <string name="hotelsName5">Port Guesthouse</string>
+    <string name="hotels5">Overlooking the ocean and harbour, Port Guesthouse offers accommodation in the centre of Húsavík.</string>
+    <string name="hotelsName6">Guesthouse Sigtun</string>
+    <string name="hotels6">This family-run guest house is in Húsavík, Iceland’s premier whale watching destination. If offers a guest kitchen and furnished terrace. WiFi and tea/coffee are free.</string>
+    <string name="hotelsName7">Husavik Apartments - Solbakki</string>
+    <string name="hotels7">Husavik Apartments - Solbakki offers accommodation in the centre of Húsavík. Free private parking is available on site. All units feature a seating and dining area.</string>
+    <string name="hotelsName8">Húsavík Cape Hotel</string>
+    <string name="hotels8">Situated at Húsavik Cape, this renovated 1950s hotel overlooks Skjálfandi Bay. It offers free Wi-Fi and rooms with a TV and a private bathroom with shower. Húsavik town centre is a 3-minute walk away.</string>
+    <string name="spotName1">The Husavik Whale Museum</string>
+    <string name="spot1">The museum’s purpose is to educate the public about whales, with emphasis on the species occurring in the North Atlantic. The exhibition provides informative and attractive displays that have the capacity to raise awareness about cetaceans and their environment. The scientific component includes an introduction to the museum’s research, which has been expanding since 2001 and now includes international collaborations and publications.</string>
+    <string name="spotName2">The Exploration Museum</string>
+    <string name="spot2">The Exploration Museum (Icelandic: Könnunarsögusafnið) is dedicated to the history of human exploration, from the early explorers to the exploration of space. The main exhibition room features photographs and artifacts from the Apollo Astronaut Training near Húsavík in 1965 and 1967.[4] The second exhibition room features the history of Viking Exploration. Upstairs is dedicated to the exploration of the polar regions and the races to the north and south pole. The basement details expeditions which travelled underground and beneath the sea.</string>
+    <string name="spotName3">The Culture House</string>
+    <string name="spot3">There are two permanent exhibitions in The Culture House: ‘Man and Nature – 100 years in Þingeyjarsýsla’, a new exhibition opened in 2010 and ‘The Maritime Exhibition’. At the Cultural house you can also find a children’s room, museum shop and coffee.</string>
+    <string name="spotName4">Saltvik</string>
+    <string name="spot4">All kinds of riding tours, both short dayrides from our farm as well as longer rides from 5 - 9 days in the highlands of Iceland. Also short dayrides from our base at lake Mývatn during the summerseason.</string>
+    <string name="spotName5">Rauðanes Point</string>
+    <string name="spot5">Rauðanes is a series of unusual rock formations on the tip of a beautiful inlet, west of Þistilfjörður. A special slice of coastline, featuring collapsed caves, volcanic arches and varied birdlife, this is well and truly off the beaten track.</string>
+    <string name="spotName6">Kaðlín Handicraft</string>
+    <string name="spot6">Húsavík´s number one location to buy traditional Icelandic crafts, Kaðlín is a great place to buy presents during your stay. Floor to ceiling with homemade goodies, it’s a lovely spot not only for gifts, but also for things to enjoy while you’re here.</string>
+    <string name="spotName7">Husavikurkirkja</string>
+    <string name="spot7">A wooden timber church in the center of Húsavík, with strong characteristics of the so-called schweitzer style. Rögnvaldur Ólafsson, architect, designed the building and the church was consecrated on June 2, 1907.</string>
+    <string name="spotName8">The Transportation Museum at Ystafell</string>
+    <string name="spot8">From weird, repurposed tanks used to deliver milk, to giant snowmobile buses that look straight off the set of Dune, the Transport Museum at Ystafell has collected and preserved half a century´s worth of vehicles, and set it on display in a wonderfully remote location.</string>
+    <string name="eatName1">Gamli Baukur Restaurant</string>
+    <string name="eat1">Gamli Baukur Restaurant is located by the harbour in Húsavík. It offers you a superb scenery over the harbour and the mountains across the bay. The restaurant offers fresh local seafood and other local and international dishes, as well as various beverages.</string>
+    <string name="eatName2">Salka Restaurant</string>
+    <string name="eat2">Salka Restaurant is in one of the oldest historical buildings in the town. Located at the town center, the restaurant offers you a sneak peak into the local pantry of Icelandic’s culinary food traditions, as well as a relaxing atmosphere.</string>
+    <string name="eatName3">Moby Dick Restaurant</string>
+    <string name="eat3">Moby Dick is a restaurant in Fosshótel Hótel. Go here for fish-n-chips and freshly cooked meal.</string>
+    <string name="eatName4">Naustið Restaurant</string>
+    <string name="eat4">Naustið is a restaurant that specialices in fresh seafood and delicious fish soup. Naustið will open in a new location in 2016, next to Árból Guesthouse. Naustið is a great place to dine and the view to the harbour is fantastic.</string>
+    <string name="eatName5">Húsavík Ice cream and café</string>
+    <string name="eat5">Located at the main street. Great view over the harbour area and the bay from the sundeck. Good Selection of ice cream, waffles and cakes. Excellent coffee, tea and ice coffee.</string>
+    <string name="eatName6">Heimabakarí Café and Bakery</string>
+    <string name="eat6">Heimabakarí café and bakery is a fantastic place to go and have traditional icelandic pastries and other baked goods. This family run business is located about 100 meters from the harbour area.</string>
+    <string name="eatName7">Café Hvalbakur</string>
+    <string name="eat7">Café Hvalbakur offers a variety of drinks, sandwiches, light meals and soups. It’s located directly below the North Sailing ticket centre and above Gamli Baukur Restaurant.</string>
+    <string name="eatName8">Fish and Chips</string>
+    <string name="eat8">Fish and chips is only open during the summer months. It is located at the center of the Húsavík harbour and offers a insigt into the life on the harbour while you enjoy your meal.</string>
+
+</resources>
