@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
@@ -8,9 +7,9 @@
 
     <ImageView
         android:id="@+id/image"
-        android:scaleType="centerCrop"
         android:layout_width="@dimen/list_item_height"
-        android:layout_height="@dimen/list_item_height" />
+        android:layout_height="@dimen/list_item_height"
+        android:scaleType="centerCrop" />
 
     <RelativeLayout
         android:id="@+id/text_container"
@@ -28,6 +27,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:background="@color/category_hotels"
             android:gravity="bottom"
             android:textAppearance="?android:textAppearanceMedium"
             android:textColor="@android:color/white"
@@ -40,9 +40,10 @@
             android:layout_height="wrap_content"
             android:layout_below="@id/name_text_view"
             android:layout_weight="1"
+            android:background="#FFFFFF"
             android:gravity="top"
             android:textAppearance="?android:textAppearanceMedium"
-            android:textColor="@android:color/white"
+            android:textColor="@color/category_hotels"
             tools:text="description" />
     </RelativeLayout>
 </RelativeLayout>
