@@ -40,10 +40,10 @@
             android:layout_height="wrap_content"
             android:layout_below="@id/name_text_view"
             android:layout_weight="1"
-            android:background="#FFFFFF"
+            android:background="#7F9CE5"
             android:gravity="top"
             android:textAppearance="?android:textAppearanceMedium"
-            android:textColor="@color/category_hotels"
+            android:textColor="#FFFFFF"
             tools:text="description" />
     </RelativeLayout>
 </RelativeLayout>

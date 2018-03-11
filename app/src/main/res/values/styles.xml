@@ -1,7 +1,7 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/primary_color</item>
         <item name="colorPrimaryDark">@color/primary_dark_color</item>
         <item name="actionBarStyle">@style/MiwokAppBarStyle</item>
@@ -9,7 +9,7 @@
     </style>
 
     <!-- App bar style -->
-    <style name="MiwokAppBarStyle" parent="style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+    <style name="MiwokAppBarStyle" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Remove the shadow below the app bar -->
         <item name="elevation">0dp</item>
     </style>
